@@ -7,7 +7,7 @@
   "sometext": "Here are some texts.",
   "syncrun_status_preparing": "Preparing...",
   "syncrun_status_progress": "Syncing ({{current}}/{{total}})",
-  "syncrun_alreadyrunning": "{{pluginName}} already running!",
+  "syncrun_alreadyrunning": "{{maxSteps}} {{pluginName}} already running!",
   "syncrun_syncingribbon": "{{pluginName}}: syncing from {{triggerSource}}",
   "syncrun_step0": "{{maxSteps}} Remotely Sync running in dry mode, not actual file changes would happen.",
   "syncrun_step1": "{{maxSteps}} Remotely Sync Preparing ({{serviceType}})",
