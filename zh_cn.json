@@ -226,6 +226,8 @@
   "settings_delsyncplans_desc": "删除数据库里的同步计划历史。",
   "settings_delsyncplans_button": "删除同步计划历史",
   "settings_delsyncplans_notice": "（数据库里的）同步计划已被删除。",
+  "settings_disable_s3_metadata_sync": "Disable S3 metadata sync",
+  "settings_disable_s3_metadata_sync_desc": "Prevents syncing modification time with S3 provider (compat. Alibaba Cloud)",
   "settings_logtodb": "保存终端日志到数据库",
   "settings_logtodb_desc": "如果开启此设置，所有终端日志都会保存到数据，从而我们可以在之后导出和阅读它们。对于移动设备的调试较为有用。有性能成本，可能会影响电池用量。历史会保存最多 10000 条和 7 天时间。",
   "settings_logtodbexport": "从数据库导出终端日志",

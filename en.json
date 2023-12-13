@@ -226,6 +226,8 @@
   "settings_delsyncplans_desc": "Delete sync plans history in DB.",
   "settings_delsyncplans_button": "Delete Sync Plans History",
   "settings_delsyncplans_notice": "Sync plans history (in DB) deleted.",
+  "settings_disable_s3_metadata_sync": "Disable S3 metadata sync",
+  "settings_disable_s3_metadata_sync_desc": "Prevents syncing modification time with S3 provider (compat. Alibaba Cloud)",
   "settings_logtodb": "Save Console Logs Into DB",
   "settings_logtodb_desc": "Enable this to save all console logs into DB, so that we can export and read them later. Especially useful for mobile debugging. Has performance cost and may impact battery. The history is saved for at most 10000 records and 7 days old.",
   "settings_logtodbexport": "Export Console Logs From DB",

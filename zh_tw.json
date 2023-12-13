@@ -226,6 +226,8 @@
   "settings_delsyncplans_desc": "刪除資料庫裡的同步計劃歷史。",
   "settings_delsyncplans_button": "刪除同步計劃歷史",
   "settings_delsyncplans_notice": "（資料庫裡的）同步計劃已被刪除。",
+  "settings_disable_s3_metadata_sync": "Disable S3 metadata sync",
+  "settings_disable_s3_metadata_sync_desc": "Prevents syncing modification time with S3 provider (compat. Alibaba Cloud)",
   "settings_logtodb": "儲存終端日誌到資料庫",
   "settings_logtodb_desc": "如果開啟此設定，所有終端日誌都會儲存到資料，從而我們可以在之後匯出和閱讀它們。對於移動裝置的除錯較為有用。有效能成本，可能會影響電池用量。歷史會儲存最多 10000 條和 7 天時間。",
   "settings_logtodbexport": "從資料庫匯出終端日誌",
