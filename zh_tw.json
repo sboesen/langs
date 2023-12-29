@@ -257,6 +257,8 @@
   "settings_enablestatusbar_reloadrequired_notice": "重新加載插件以使更改生效。",
   "settings_trash_locally": "將已刪除的檔案移到 Obsidian 的 .trash 資料夾中",
   "settings_trash_locally_desc": "如果停用，將首先嘗試把檔案移到資源回收筒中。僅影響同步時刪除的檔案。",
+  "settings_sync_bookmarks": "Sync Obsidian bookmarks",
+  "settings_sync_bookmarks_desc": "Syncs your bookmarks between devices.",
   "settings_sync_trash": "同步 .trash 資料夾",
   "settings_sync_trash_desc": "如果您在刪除庫中的檔案時使用 .trash 資料夾而不是資源回收筒，那么该项设置可能有用。",
   "statusbar_time_years": "{{time}} 年",

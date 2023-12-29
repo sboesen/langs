@@ -257,6 +257,8 @@
   "settings_enablestatusbar_reloadrequired_notice": "Reload the plugin for the changes to take effect.",
   "settings_trash_locally": "Move deleted files to Obsidian .trash folder",
   "settings_trash_locally_desc": "If disabled will try to first move files to system trash. Only affects files deleted when syncing.",
+  "settings_sync_bookmarks": "Sync Obsidian bookmarks",
+  "settings_sync_bookmarks_desc": "Syncs your bookmarks between devices.",
   "settings_sync_trash": "Sync .trash folder",
   "settings_sync_trash_desc": "Helps if you use local trash instead of system trash when deleting files in your Vault.",
   "statusbar_time_years": "{{time}} years",
