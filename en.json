@@ -86,7 +86,7 @@
   "settings_password": "Encryption Password",
   "settings_password_desc": "Password for E2E encryption. Empty for no password. You need to click \"Confirm\". Attention: the password and other info are saved locally.",
   "settings_autorun": "Schedule For Auto Run",
-  "settings_autorun_desc": "The plugin trys to schedule the running after every interval. Battery may be impacted.",
+  "settings_autorun_desc": "The plugin trys to schedule the running after every interval. Battery may be impacted. May not work well with the Sync on Remote Changes setting.",
   "settings_autorun_notset": "(not set)",
   "settings_autorun_second": "every {{time}} seconds",
   "settings_autorun_1min": "every 1 minute",
