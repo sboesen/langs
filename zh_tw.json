@@ -6,6 +6,7 @@
   "submit": "提交",
   "sometext": "這裡有一段文字。",
   "syncrun_status_preparing": "準備中……",
+  "syncrun_status_syncing": "Syncing",
   "syncrun_status_progress": "同步中 ({{current}}/{{total}})",
   "syncrun_alreadyrunning": "{{maxSteps}} {{pluginName}} 正處於此階段!",
   "syncrun_syncingribbon": "{{pluginName}}：正在由 {{triggerSource}} 觸發執行",
