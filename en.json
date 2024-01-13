@@ -6,6 +6,7 @@
   "submit": "Submit",
   "sometext": "Here are some texts.",
   "syncrun_status_preparing": "Preparing...",
+  "syncrun_status_syncing": "Syncing",
   "syncrun_status_progress": "Syncing ({{current}}/{{total}})",
   "syncrun_alreadyrunning": "{{maxSteps}} {{pluginName}} already running!",
   "syncrun_syncingribbon": "{{pluginName}}: syncing from {{triggerSource}}",
