@@ -23,6 +23,8 @@
   "syncrun_step7skip": "{{maxSteps}} Remotely Sync 在空跑模式，跳过实际数据交换步骤。",
   "syncrun_step8": "{{maxSteps}} Remotely Sync 已完成同步！",
   "syncrun_abort": "{{manifestID}}-{{theDate}}：中断同步，同步来源={{triggerSource}}，出错阶段={{syncStatus}}",
+  "remote_changes_found": "Syncing remote changes...",
+  "remote_changes_synced": "Vault synced and up-to-date.",
   "protocol_saveqr": " {{manifestName}} 新的非 oauth2 设置保存完成。请重启插件设置页使之生效。",
   "protocol_callbacknotsupported": "您的 uri callback 暂不支持： {{params}}",
   "protocol_dropbox_connecting": "正在连接 Dropbox……\n请不要关闭此弹窗。",
