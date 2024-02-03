@@ -8,7 +8,7 @@
   "syncrun_status_preparing": "Preparing...",
   "syncrun_status_syncing": "Syncing",
   "syncrun_status_progress": "Syncing ({{current}}/{{total}})",
-  "syncrun_alreadyrunning": "Remotely Sync already running!",
+  "syncrun_alreadyrunning": "{{maxSteps}} Remotely Sync already running!",
   "syncrun_debug_alreadyrunning": "Remotely Sync already running in stage: {{stage}}",
   "syncrun_syncingribbon": "{{pluginName}}: syncing from {{triggerSource}}",
   "syncrun_step0": "{{maxSteps}} Remotely Sync running in dry mode, not actual file changes would happen.",
