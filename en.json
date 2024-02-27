@@ -287,10 +287,10 @@
   "statusbar_lastsync_label": "Last successful Sync on {{date}}",
   "statusbar_lastsync_never": "Never Synced",
   "statusbar_lastsync_never_label": "Never Synced before",
+  "syncalgov2_title": "Remotely Sync Agreement",
+  "syncalgov2_texts": "PLEASE BACKUP YOUR VAULT!\nWelcome to Remotely Sync, a fork of Remotely Save with security upgrades! Before getting started, please note that this plugin is likely less stable than Remotely Save due to the new features that have not had as thorough testing.\nRemotely Sync requires uploading extra metadata files to your configured cloud storage to allow additional devices to know what has been deleted.\n If you do not agree with this, you can download version 0.2.14 or earlier of Remotely Save from GitHub. This version uses an old algorithm that does not upload any extra files.\nBy clicking the \"Do Not Agree\" button, the plugin will unload and you will need to disable it in the Obsidian settings.\nPlease click the \"Agree\" button to continue.",
   "settings_showlastsyncedonly": "Show only last synced in status bar",
   "settings_showlastsyncedonly_desc": "Only shows the last synced and hides every other status bar element. This is best suited for mobile devices.",
-  "syncalgov2_title": "Remotely Sync has a better sync algorithm",
-  "syncalgov2_texts": "Welcome to use Remotely Sync!\nFrom version 0.3.0, a new algorithm has been developed, but it needs uploading extra meta data files _remotely-secure-metadata-on-remote.{json,bin} to YOUR configured cloud destinations, besides your notes.\nSo that, for example, the second device can know that what files/folders have been deleted on the first device by reading those files.\nIf you agree, plase click the button \"Agree\", and enjoy the plugin! AND PLEASE REMEMBER TO BACKUP YOUR VAULT FIRSTLY!\nIf you do not agree, you should stop using the current and later versions of Remotely Sync. You could consider manually install the old version 0.2.14 which uses old algorithm and does not upload any extra meta data files. By clicking the \"Do Not Agree\" button, the plugin will unload itself, and you need to manually disable it in Obsidian settings.",
   "syncalgov2_button_agree": "Agree",
   "syncalgov2_button_disagree": "Do not agree"
 }
