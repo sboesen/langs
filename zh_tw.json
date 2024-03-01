@@ -287,10 +287,10 @@
   "statusbar_lastsync_label": "最後成功同步於 {{date}}",
   "statusbar_lastsync_never": "從未同步",
   "statusbar_lastsync_never_label": "以前從未同步過",
-  "settings_showlastsyncedonly": "Show only last synced in status bar",
-  "settings_showlastsyncedonly_desc": "Only shows the last synced and hides every other status bar element. This is best suited for mobile devices.",
-  "syncalgov2_title": "Remotely Sync 的同步演算法得到最佳化",
-  "syncalgov2_texts": "歡迎使用 Remotely Sync!\n從版本 0.3.0 開始，它帶來了新的同步演算法，但是，除了您的筆記之外，它還需要上傳額外的帶有元資訊的檔案 _remotely-secure-metadata-on-remote.{json,bin} 到您的雲服務目的地上。\n從而，比如說，透過讀取這些資訊，另一臺裝置可以知道什麼檔案或資料夾在第一臺裝置上被刪除了。\n如果您同意此策略，請點選按鈕 \"同意\"，然後開始享用此外掛！且特別要注意：使用外掛之前，請首先備份好您的儲存庫（Vault）！\n如果您不同意此策略，您應該停止使用此版本和之後版本的 Remotely Sync。您可以考慮手動安裝舊版 0.2.14，它使用舊的同步演算法，並不上傳額外元資訊檔案。點選 \"不同意\" 之後，外掛會自動停止執行（unload），然後您需要 Obsidian 設定裡手動停用（disable）此外掛。",
+  "settings_showlastsyncedonly": "狀態列中僅顯示最後一次同步時間",
+  "settings_showlastsyncedonly_desc": "僅顯示最後一次同步時間，並隱藏其它狀態列元素。這最適合行動裝置。",
+  "syncalgov2_title": "Remotely Sync 協議",
+  "syncalgov2_texts": "請備份好您的庫（Vault）！\n歡迎使用 Remotely Sync，這是具有安全升級功能的 Remotely Save 分支！在開始使用之前，請注意，由於新功能尚未經過全面測試，此外掛程式可能不如 Remotely Save 穩定。\nRemotely Sync 需要將額外的元資料檔案上傳到您配置的雲端儲存中，以允許其它裝置知道哪些內容被刪除了。\n如果您不同意此策略，您可以從 GitHub 下載 0.2.14 或更早版本的 Remotely Save，它們使用舊的同步演算法，不會上傳任何額外檔案。\n點擊“不同意”按鈕之後，外掛程式會自動停止運行，然後您需要在 Obsidian 設定里手動停用此外掛程式。\n如果您同意此策略，請點擊“同意”按鈕，然後開始享用此外掛程式！",
   "syncalgov2_button_agree": "同意",
   "syncalgov2_button_disagree": "不同意"
 }
