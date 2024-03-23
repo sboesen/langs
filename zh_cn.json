@@ -57,7 +57,7 @@
   "modal_remotebasedir_secondconfirm_vaultname": "重置回默认的库（Vault）文件夹名",
   "modal_remotebasedir_secondconfirm_change": "确认修改",
   "modal_remotebasedir_notice": "新的远程基文件夹设置已保存！",
-  "modal_dropboxauth_manualsteps": "第 1 步：在浏览器中访问以下地址，然后按照网页提示操作。\n第 2 步：在网页的最后，您会获得一串长代码，请复制粘贴到下方，并点击“提交”",
+  "modal_dropboxauth_manualsteps": "第 1 步：在浏览器中访问以下地址，然后按照网页提示操作。\n第 2 步：在网页的最后，您会获得一串长代码，请复制粘贴到下方，并点击“提交”。",
   "modal_dropboxauth_autosteps": "在浏览器中访问以下地址，然后按照网页提示操作。\n最后，您应该会被重定向回 Obsidian。",
   "modal_dropboxauth_copybutton": "点击此按钮从而复制鉴权 url",
   "modal_dropboxauth_copynotice": "鉴权 url 已复制到剪贴板！",
