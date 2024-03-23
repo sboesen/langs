@@ -234,7 +234,7 @@
   "settings_outputsettingsconsole_notice": "硬盘设置文件已输出！",
   "settings_syncplans": "导出同步计划",
   "settings_syncplans_desc": "每次您触发同步后、实际同步前，插件都会生成同步计划。它可以帮助您知道每次同步发生了什么。点击按钮可以导出同步计划，并且，您可以选择导出为内嵌在 Markdown 里的 json 格式或表格格式，它们是等价的。",
-  "settings_syncplans_button_json": "导出为json",
+  "settings_syncplans_button_json": "导出为 json",
   "settings_syncplans_button_table": "导出为表格",
   "settings_syncplans_notice": "同步计划已导出！",
   "settings_delsyncplans": "删除数据库里的同步计划历史",
